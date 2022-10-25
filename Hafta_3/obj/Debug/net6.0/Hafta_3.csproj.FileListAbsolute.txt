@@ -1,0 +1,15 @@
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\bin\Debug\net6.0\Hafta_3.exe
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\bin\Debug\net6.0\Hafta_3.deps.json
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\bin\Debug\net6.0\Hafta_3.runtimeconfig.json
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\bin\Debug\net6.0\Hafta_3.dll
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\bin\Debug\net6.0\Hafta_3.pdb
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\obj\Debug\net6.0\Hafta_3.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\obj\Debug\net6.0\Hafta_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\obj\Debug\net6.0\Hafta_3.AssemblyInfoInputs.cache
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\obj\Debug\net6.0\Hafta_3.AssemblyInfo.cs
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\obj\Debug\net6.0\Hafta_3.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\obj\Debug\net6.0\Hafta_3.dll
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\obj\Debug\net6.0\refint\Hafta_3.dll
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\obj\Debug\net6.0\Hafta_3.pdb
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\obj\Debug\net6.0\Hafta_3.genruntimeconfig.cache
+C:\Users\hasan\Desktop\MYAZ-205 Nesne\Odevler\Hafta_3\Hafta_3\Hafta_3\obj\Debug\net6.0\ref\Hafta_3.dll
